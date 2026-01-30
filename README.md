@@ -6,3 +6,4 @@ This repository is for storing DSA learning related codes based on the topics an
 	1. Sorting
 		a. Selection
 		b. Bubble
+		c. Insertion
